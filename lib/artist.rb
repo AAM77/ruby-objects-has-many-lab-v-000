@@ -23,7 +23,7 @@ class Artist
 
   def add_song_by_name(song)
 
-  end
+  end # add_song_by_name
 
   def song_count
     song_list = @@artists.values
