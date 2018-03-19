@@ -32,4 +32,4 @@ class Artist
   end # song_count
 
 
-end
+end # class Artist
