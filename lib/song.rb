@@ -4,7 +4,7 @@ class Song
 
   def initialize(name)
     @name = name
-  end
+  end # initialize
 
   def artist_name
     if self.artist != nil
