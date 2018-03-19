@@ -29,7 +29,7 @@ class Artist
     song_list = @@artists.values
     number_of_songs = song_list.length
     number_of_songs
-  end
+  end # song_count
 
 
 end
