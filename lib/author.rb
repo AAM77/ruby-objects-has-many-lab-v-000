@@ -30,6 +30,4 @@ class Author
     @@post_count
   end # post_count
 
-
-
-end
+end # class Author
