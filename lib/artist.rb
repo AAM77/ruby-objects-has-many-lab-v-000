@@ -27,6 +27,7 @@ class Artist
   end
 
   def all_songs
+    @@songs
   end
 
 
