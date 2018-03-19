@@ -8,18 +8,18 @@ class Artist
     @name = name
     @@artists << self
     @songs = []
-  end
+  end # initialize
 
   def songs
     @songs
-  end
+  end # songs
 
   def add_song(song_name)
     @song = song_name
     self.songs << @song
 
     @song.name = self
-  end
+  end # add_song
 
   def add_song_by_name(song)
 
