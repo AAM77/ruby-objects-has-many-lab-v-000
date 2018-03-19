@@ -20,6 +20,7 @@ class Author
 
   def add_post_by_name(title)
     @title = Post.new(title)
+    
 
 
 
