@@ -7,8 +7,7 @@ class Song
   end
 
   def artist_name(song_name)
-    @artist_name = song_name.Artist.name
-    @artist_name
+    @artist_name = song_name.artist
   end
 
 
