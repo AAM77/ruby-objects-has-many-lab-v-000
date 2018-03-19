@@ -23,7 +23,7 @@ class Artist
   end # add_song_by_name
 
   def self.song_count
-    return @songs.size
+    @songs.each do {|x| }
   end # song_count
 
 
