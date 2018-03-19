@@ -11,6 +11,6 @@ class Post
       self.author.name
     else
       nil
-    end
-  end
+    end # if
+  end # author_name
 end
