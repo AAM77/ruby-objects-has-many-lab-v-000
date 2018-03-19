@@ -13,4 +13,4 @@ class Post
       nil
     end # if
   end # author_name
-end
+end # class Post
